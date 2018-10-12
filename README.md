@@ -48,6 +48,6 @@ It consists of:
 />
 
 ```
-![Demo Image](./demoImage/Capture)
+![Demo Image](https://github.com/amanolar94/SVG-circular-chart/blob/master/demoImage/Capture.PNG)
 
 The component is inspired by [this article in Medium](https://medium.com/@pppped/how-to-code-a-responsive-circular-percentage-chart-with-svg-and-css-3632f8cd7705)
