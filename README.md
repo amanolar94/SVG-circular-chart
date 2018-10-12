@@ -40,7 +40,7 @@ import CircleChart from "<your path>/CircleChart"" //Add your Circular chart com
     width={250}
     amountFilled={87}
     amountFilledDisplay={true}
-    displayInPercentage={false}
+    displayInPercentage={true}
     base={200}
     MainLineWidth={6}
     BackgroundLineWidth={6}
