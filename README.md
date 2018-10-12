@@ -38,7 +38,7 @@ import CircleChart from "<your path>/CircleChart"" //Add your Circular chart com
 .
 <CircleChart
     width={250}
-    amountFilled={87}
+    amountFilled={82}
     amountFilledDisplay={true}
     displayInPercentage={true}
     base={200}
