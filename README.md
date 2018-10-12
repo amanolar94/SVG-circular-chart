@@ -28,9 +28,14 @@ It consists of:
 - roundedEdge (**DEFAULT FALSE**)(type: boolean) (e.g: roundedEdge=
   {true})
 
-**E.G:**
+**Example Usage:**
 
 ```
+import CircleChart from "<your path>/CircleChart"" //Add your Circular chart component in your components folder and import it
+.
+.
+.
+.
 <CircleChart
     width={250}
     amountFilled={87}
