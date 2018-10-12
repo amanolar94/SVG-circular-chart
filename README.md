@@ -23,7 +23,7 @@ It consists of:
 - BackgroundLineWidth (**DEFAULT: equal to MainLineWidth**)(type: integer) (e.g: BackgroundLineWidth={6})
 - backgroundColor (**DEFAULT TRANSPARENT**)(type: any color value compatible to html5) (e.g: color={"#ff001f"})
 - numberColor (**OPTIONAL**)(type: any color value compatible to html5) (e.g: numberColor={"#000"})
-- labelText (**OPTIONAL**)(type: sring) (e.g labelText={"TOTAL"})
+- labelText (**OPTIONAL**)(type: string) (e.g labelText={"TOTAL"})
 - labelColor (**OPTIONAL**)(type: any color value compatible to html5) (e.g: labelColor={"#000"})
 - roundedEdge (**DEFAULT FALSE**)(type: boolean) (e.g: roundedEdge=
   {true})
