@@ -46,7 +46,8 @@ It consists of:
     backgroundColor={"#eee"}
     roundedEdge={true}
 />
-![Demo Image](./demoImage/capture)
+
 ```
+![Demo Image](./demoImage/capture)
 
 The component is inspired by [this article in Medium](https://medium.com/@pppped/how-to-code-a-responsive-circular-percentage-chart-with-svg-and-css-3632f8cd7705)
